@@ -1,5 +1,3 @@
-### Hola a todos 👋
-
 <img align="left" alt="esnorki2008's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rodrialeh01&theme=chartreuse-dark&show_icons=true"/>
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrialeh01&theme=chartreuse-dark)
