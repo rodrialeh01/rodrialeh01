@@ -1,4 +1,14 @@
-<h1 align="center">Hi 👋, I'm Rodrigo</h1>
+img align="left" width="80" height="80" src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" alt="Resume application project app icon">
+
+# Heeey!
+ 
+</br>
+<h1>I'm Rodri. </h1>
+</hr> 
+<samp>
+I am a science and systems student who wants to learn every day everything related to software development.
+</samp>
+</br></br>
 <img align="left" alt="esnorki2008's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rodrialeh01&theme=chartreuse-dark&show_icons=true"/>
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrialeh01&theme=chartreuse-dark)
