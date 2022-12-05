@@ -1,20 +1,67 @@
-<img align="left" width="80" height="80" src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" alt="Resume application project app icon">
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2281F7&center=true&vCenter=true&width=435&lines=Rodrigo+Hern%C3%A1ndez" alt="Typing SVG" /></a>
+ <br/>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2281F7&center=true&vCenter=true&width=500&height=60&lines=Science+and+systems+engineering+student" alt="Typing SVG" /></a>
 
-# Heeey!
- 
+<br/>
+
+### <div align="center"> I am a science and systems student who wants to learn every day everything related to software development.</div>  
 </br>
-<h1>I'm Rodri. </h1>
-</hr> 
-<samp>
-I am a science and systems student who wants to learn every day everything related to software development.
-</samp>
-</br></br>
-<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My Github Stats</h2>
-<img align="left" alt="esnorki2008's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rodrialeh01&theme=chartreuse-dark&show_icons=true"/>
+<details open>
+ <summary><h2>😀Connect with me</h2></summary>
+ <div align="center">
+<a href="https://github.com/rodrialeh01" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a target="_blank">
+<img src=https://img.shields.io/badge/rodri.aleh-%2300acee.svg?&style=for-the-badge&logo=discord&logoColor=white alt=rodri.aleh style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/rodrialeh01" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.instagram.com/rodri.aleh" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div> 
+</details>
+<details open> 
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrialeh01&theme=chartreuse-dark)
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Rodrigo's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=rodrialeh01&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=2281F7&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Rodrigo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrialeh01&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=2281F7&icon_color=2281F7&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Rodrigo's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=rodrialeh01&bg_color=1F222E&color=F8D866&line=2281F7&point=FFFFFF&hide_border=true" /></a>
+
+</details>
+
+<h3 align="left">Tools I use:</h3>
+
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Typescript](https://img.shields.io/badge/TypeScript-323330?style=flat&logo=typescript&logoColor=2281F7)
+![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-31A8FF?style=flat&logo=Adobe%20Illustrator&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
+![Django](https://img.shields.io/badge/Django-319795?style=flat&logo=Django&logoColor=white)
+
 
 
 <!--
