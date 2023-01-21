@@ -21,6 +21,9 @@
 </a>
 <a href="https://www.instagram.com/rodri.aleh" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://discordapp.com/users/528432917509046302" target="_blank">
+<img src=https://img.shields.io/badge/discord-%2300acee.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a>  
 </div> 
 </details>
