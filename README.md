@@ -42,7 +42,7 @@
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Rodrigo's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=rodrialeh01&bg_color=1F222E&color=F8D866&line=2281F7&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Rodrigo's Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodrialeh01&theme=radical&hide_border=true" /></a>
 
 </details>
 
@@ -64,7 +64,9 @@
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-31A8FF?style=flat&logo=Adobe%20Illustrator&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-319795?style=flat&logo=Django&logoColor=white)
-
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 
 
 <!--
